@@ -12,20 +12,23 @@ import (
 )
 
 type ViewData struct {
-	DisplayName string   `json:"displayName"`
-	FullName    string   `json:"fullName"`
-	ID          int64    `json:"id"`
-	Quotes      []string `json:"quotes"`
-	Sex         string   `json:"sex"`
-	Slug        string   `json:"slug"`
-	Species     string   `json:"species"`
-	Sprite      string   `json:"sprite"`
+	Woo []struct {
+		Id          int      `json:"id"`
+		Slug        string   `json:"slug"`
+		DisplayName string   `json:"displayName"`
+		FullName    string   `json:"fullName"`
+		Species     string   `json:"species"`
+		Sex         string   `json:"sex"`
+		Quotes      []string `json:"quotes"`
+		Sprite      string   `json:"sprite"`
+		Background  string   `json:"background"`
+	} `json:"woo"`
 }
 
-func loadAPI() []ViewData {
-	vd := []ViewData{}
+func loadAPI() ViewData {
+	vd := ViewData{}
 
-	url := "https://adventure-time-api.herokuapp.com/api/v1/characters"
+	url := "https://raw.githubusercontent.com/Mkheir13/Adventure/main/data/data.json"
 
 	httpClient := http.Client{
 		Timeout: time.Second * 2, // define timeout
@@ -80,10 +83,10 @@ func main() {
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
 		search := r.FormValue("searchBar")
 		if search != "" {
-			filteredViewData := []ViewData{}
-			for _, adventure := range viewData {
+			filteredViewData := ViewData{}
+			for _, adventure := range viewData.Woo {
 				if strings.Contains(strings.ToLower(adventure.DisplayName), strings.ToLower(search)) || strings.Contains(strings.ToLower(adventure.FullName), strings.ToLower(search)) {
-					filteredViewData = append(filteredViewData, adventure)
+					filteredViewData.Woo = append(filteredViewData.Woo, adventure)
 				}
 			}
 			tmpol.Execute(w, filteredViewData)
