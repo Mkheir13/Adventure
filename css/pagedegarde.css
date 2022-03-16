@@ -1,0 +1,44 @@
+body {
+    background-color: #F5DB47;
+    display: flex;
+    flex-direction: column;
+}
+#titre {
+    display: flex;
+    width: 99vw;
+    align-content: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+#adventure_img {
+    width: 50%;
+    filter: drop-shadow(0 0 0.3rem black);
+}
+
+#cardholder {
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#card {
+    min-width: 20%;
+    background-color: #0199cc;
+    opacity: 90%;
+    border-radius: 10%;
+    margin: 1% 1%;
+    padding: 5%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.prm {
+    color: white;
+    display: flex;
+
+    font-size: 100%;
+}

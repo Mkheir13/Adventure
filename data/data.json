@@ -1,0 +1,309 @@
+{
+  "characters": [
+    {
+      "id": 0,
+      "slug": "finn",
+      "displayName": "Finn",
+      "fullName": "Finn Mertens",
+      "species": "Human",
+      "sex": "Male",
+      "quotes": [
+        "You don't need a mirror to know you look good. You're beautiful on the inside.",
+        "You're letting your brain dial turn your fear volume up.",
+        "'Creepy' is just another label we use to distance ourselves from stuff we don't understand. Or reminds us of something in ourselves that we're not comfortable with.",
+        "I wonder if being a sad loner gives you more raw materials to form song ideas. Is that where creativity comes from? From sad biz?",
+        "Homies help homies. Always."
+      ],
+      "sprite": "https://i.imgur.com/zLEMgTB.png",
+      "background": "../img/Minimalistic Finn.jpeg"
+    },
+    {
+      "id": 1,
+      "slug": "jake",
+      "displayName": "Jake",
+      "fullName": "Jake the Dog",
+      "species": "Dog/Shape-shifter Hybrid",
+      "sex": "Male",
+      "quotes": [
+        "You're getting all hung up on imaginary problems. You gotta focus on what's real, man!",
+        "Suckin' at something is the first step to being sorta good at something.",
+        "To live life, you need problems. If you get everything you want the minute you want it, then what's the point of livin'?"
+      ],
+      "sprite": "https://i.imgur.com/oOuaFDI.png",
+      "background": "../img/jake.jpg"
+    },
+    {
+      "id": 2,
+      "slug": "bmo",
+      "displayName": "BMO",
+      "fullName": "Be More",
+      "species": "MO Series Mk. II 110V-60Hz Core-System-Ready Kompy-Compatible model",
+      "sex": "N/A",
+      "quotes": [
+        "When bad things happen, I know you want to believe they are a joke, but sometimes life is scary and dark. That is why we must find the light.",
+        "Maybe the lesson is that when you are grown, you won't ever be able to tell if everything is going totally haywire or if truly everything is perfectly fine.",
+        "Your eyeballs think the sky is blue, but that's just sun rays farting apart in the barf of our atmosphere. The sky is black."
+      ],
+      "sprite": "https://i.imgur.com/saWFJ90.png",
+      "background": "../img/BMO.png"
+    },
+    {
+      "id": 3,
+      "slug": "princess-bubblegum",
+      "displayName": "Princess Bubblegum",
+      "fullName": "Bonnibel Bubblegum",
+      "species": "Gum Golem",
+      "sex": "Female",
+      "quotes": [
+        "Responsibility demands sacrifice.",
+        "You can't break royal promises! Never, ever, never, no matter what, forever!",
+        "People get built different. We don't need to figure it out, we just need to respect it."
+      ],
+      "sprite": "https://i.imgur.com/KYiPIt4.png",
+      "background": "../img/bubblegum.jpg"
+    },
+    {
+      "id": 4,
+      "slug": "marceline",
+      "displayName": "Marceline",
+      "fullName": "Marceline the Vampire Queen",
+      "species": "Vampire/Demon Hybrid",
+      "sex": "Female",
+      "quotes": [
+        "When I became a vampire, I was just a messed up kid. Now it's a thousand years later, and I'm still messed up!",
+        "I don't think there are bad people. I think good people do bad stuff sometimes, and that's bad. But if you just do it once, that's a mistake. And that's not bad.",
+        "Everything repeats over and over again. No one learns anything, because no one lives long enough to see the pattern."
+      ],
+      "sprite": "https://i.imgur.com/L2bWMYR.png",
+      "background": "../img/marceline.jpg"
+    },
+    {
+      "id": 5,
+      "slug": "ice-king",
+      "displayName": "Ice King",
+      "fullName": "Simon Petrikov",
+      "species": "Ice Wizard",
+      "sex": "Male",
+      "quotes": [
+        "Y'all are just hating on my steez. I'm not listening to haters.",
+        "What?! No one commands the Ice King to make no sandwich!",
+        "When you have stanky old wizard eyes like me, sometimes you see things that are real, and other times it's like, crazy, crazy, crazy."
+      ],
+      "sprite": "https://i.imgur.com/nCn1nxn.png",
+      "background": "../img/iceking.jpg"
+    },
+    {
+      "id": 6,
+      "slug": "lsp",
+      "displayName": "LSP",
+      "fullName": "Lumpy Space Princess",
+      "species": "Lumpy Space Person",
+      "sex": "Female",
+      "quotes": [
+        "WHATEVER, IT'S 2009!",
+        "I know I mess things up sometimes, but I'm really trying!",
+        "I'm doing so awesome on my own. Like, right now, I found this can of beans.",
+        "Oh nah. I am not getting eaten by zombies tonight."
+      ],
+      "sprite": "https://i.imgur.com/2LNeGHR.png",
+      "background": "../img/lsp.jpeg"
+    },
+    {
+      "id": 7,
+      "slug": "lady-rainicorn",
+      "displayName": "Lady Rainicorn",
+      "fullName": "Lady Rainicorn",
+      "species": "Rainicorn",
+      "sex": "Female",
+      "quotes": [
+        "Oh sweet potato, I love you because you're an idiot. You make me feel like a genius.",
+        "Don't make me laugh. You are not even worth our princess' disdain.",
+        "Why did I say such a thing? What if something bad happens to him? Our last conversation was about how his noodles tasted bad..."
+      ],
+      "sprite": "https://i.imgur.com/ux9LH2p.png",
+      "background": "../img/raini.png"
+    },
+    {
+      "id" : 8,
+      "slug": "flame-princess",
+      "displayName": "Flame Princess",
+      "fullName": "Phoebe",
+      "species": "Flame Person",
+      "sex": "Female",
+      "quotes": [
+        "Hold on, bro. Perhaps it is a non-flameish custom unknown to us.",
+        "It's only okay if the person making the fun is someone I'm cool with! And they do it in a respectful and knowing way!",
+        "Uh, do we need a torch? I'm sorta made of fire."
+      ],
+      "sprite": "https://i.imgur.com/8DCrCta.png",
+      "background": "../img/Minimalistic Finn.jpeg"
+    },{
+      "id": 9,
+      "slug": "Keir",
+      "displayName": "Kheri",
+      "fullName": "Mederreg Kheir-eddine",
+      "species": "Human",
+      "sex": "Male",
+      "quotes": [
+        "En meme temps c'est une femme",
+        "Je veux le chocolat",
+        "On rejoue tant que j'ai pas gagné",
+        "P'tit macdo"
+      ],
+      "sprite": "https://i.imgur.com/zLEMgTB.png",
+      "background": "../img/Minimalistic Finn.jpeg"
+    },{
+      "id": 10,
+      "slug": "Olivier",
+      "displayName": "Olivier",
+      "fullName": "Mistral Olivier",
+      "species": "Human",
+      "sex": "Male",
+      "quotes": [
+        "Quoi?, Feur",
+        "Quoi?, Chi",
+        "Quoi?, De neuf ?",
+        "Quoi?, Drilataire"
+      ],
+      "sprite": "https://www.spriters-resource.com/resources/sheets/157/159767.png?updated=1629056122",
+      "background": "../img/Minimalistic Finn.jpeg"
+    },{
+      "id": 11,
+      "slug": "Dani",
+      "displayName": "Davy",
+      "fullName": "Marthely Davy",
+      "species": "Human",
+      "sex": "Male",
+      "quotes": [
+        "Je sors mon couteau",
+        "Hier j'ai B***** sa meeeeere ",
+        "Je veux la vanille",
+        "Ouga Bouga"
+      ],
+      "sprite": "https://i.imgur.com/zLEMgTB.png",
+      "background": "../img/Minimalistic Finn.jpeg"
+    },{
+      "id": 12,
+      "slug": "Anta",
+      "displayName": "Antoine",
+      "fullName": "Pizzeta Antoine",
+      "species": "nazi",
+      "sex": "Male",
+      "quotes": [
+        "C'est bon pour vous",
+        "JE SUIS APOLLO",
+        "Je vais caner gros",
+        "Tu veux voir mon projet avec Sofiane"
+      ],
+      "sprite": "https://i.imgur.com/zLEMgTB.png",
+      "background": "../img/Minimalistic Finn.jpeg"
+    },{
+      "id": 13,
+      "slug": "Pierre",
+      "displayName": "Pierre",
+      "fullName": "Roy Pierre",
+      "species": "Chat",
+      "sex": "Male",
+      "quotes": [
+        "Le Kotlin sa compile en Java",
+        "Putain Co-pilot ma tout fait ",
+        "Tu savais pas !",
+        "Attend tu utilise Vscode ?"
+      ],
+      "sprite": "https://i.imgur.com/zLEMgTB.png",
+      "background": "../img/Minimalistic Finn.jpeg"
+    },{
+      "id": 14,
+      "slug": "Margot",
+      "displayName": "Margot",
+      "fullName": "Tomatis Margot",
+      "species": "Femme",
+      "sex": "Faible",
+      "quotes": [
+        "Quoi Anta ta pas fait tes quetes ?",
+        "Pas VANILLE",
+        "Je peux...VRAIMENT ?",
+        "Y'a pas de quatrieme phrase je suis une femme"
+      ],
+      "sprite": "https://i.imgur.com/zLEMgTB.png",
+      "background": "../img/Minimalistic Finn.jpeg"
+    },{
+      "id": 15,
+      "slug": "Laurie",
+      "displayName": "Laurie",
+      "fullName": "Jeham Laurie",
+      "species": "Femme",
+      "sex": "Faible",
+      "quotes": [
+        "Ta vue le dernier caca de nami ?",
+        "Mais t'en a pas marre d'etre une merde",
+        "Vous voulez pas allez fumer ?",
+        "Y'a pas de quatrieme phrase je suis une femme"
+      ],
+      "sprite": "https://i.imgur.com/zLEMgTB.png",
+      "background": "../img/Minimalistic Finn.jpeg"
+    },{
+      "id": 16,
+      "slug": "Le bg",
+      "displayName": "Ben",
+      "fullName": "Borello Benjamin",
+      "species": "Homme",
+      "sex": "7 jours sur 7",
+      "quotes": [
+        "Je suis le meilleur délégué",
+        "Vien on va se plaindre a l'admin",
+        "Qui sort ce soir ?",
+        "Pas demain j'aurais surement la geule de bois"
+      ],
+      "sprite": "https://i.imgur.com/zLEMgTB.png",
+      "background": "../img/Minimalistic Finn.jpeg"
+    },{
+      "id": 17,
+      "slug": "SamSam",
+      "displayName": "Sam",
+      "fullName": "Conraux Sam",
+      "species": "Homme",
+      "sex": "Homme",
+      "quotes": [
+        "Petit smash ?",
+        "Oh je la b****",
+        "j'ai train une petite cassiopé",
+        "J'ai fais une petit blanquette de veau"
+      ],
+      "sprite": "https://i.imgur.com/zLEMgTB.png",
+      "background": "../img/Minimalistic Finn.jpeg"
+    },
+    {
+      "id": 18,
+      "slug": "Maxou",
+      "displayName": "Maxime",
+      "fullName": "Obry Maxime",
+      "species": "Homme",
+      "sex": "Homme",
+      "quotes": [
+        "J'ai dormi 2 heures gros je suis explosé",
+        "Oh LE BOULOT",
+        "T'est giga gay",
+        "Maix c'est pas drole"
+      ],
+      "sprite": "https://i.imgur.com/zLEMgTB.png",
+      "background": "../img/Minimalistic Finn.jpeg"
+    },
+    {
+      "id": 19,
+      "slug": "Mr.Prof",
+      "displayName": "Monsieur",
+      "fullName": "Sébastien Nouet",
+      "species": "Homme",
+      "sex": "Homme",
+      "quotes": [
+        "Vous avez besoin d'aide ?",
+        "Les API c'est super simple",
+        "Kheir-eddine, Benjamin 20/20",
+        "TP surprise"
+      ],
+      "sprite": "https://i.imgur.com/zLEMgTB.png",
+      "background": "../img/Minimalistic Finn.jpeg"
+    }
+  ]
+}

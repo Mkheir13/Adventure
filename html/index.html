@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../css/pagedegarde.css" type="text/css">
+    <title>Groupie-Tracker</title>
+  </head>
+  <body>
+    <div id="titre">
+      <img id="adventure_img" src="../img/adventure.png">
+    </div>
+
+    <form action="index.html" method="post">
+      <input type="text" name="searchBar"/>
+      <input type="submit" name="submitSearch"/>
+    </form>
+
+    <ul id="cardholder">
+      {{range .}}
+        <li id="card">
+          <img class="spt" src="{{.Sprite}}" alt="" style="height = 33; max-width = 33;">
+          <div class="prm">{{.DisplayName}}</div>
+          <br>
+        </li>
+      {{end}}
+    </ul>
+
+
+
+  </body>
+</html>
