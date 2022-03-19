@@ -150,7 +150,7 @@
         "On rejoue tant que j'ai pas gagné",
         "P'tit macdo"
       ],
-      "sprite": "https://i.imgur.com/zLEMgTB.png",
+      "sprite": "https://www.spriters-resource.com/resources/sheet_icons/64/67626.png",
       "background": "../img/Minimalistic Finn.jpeg"
     },{
       "id": 10,
@@ -180,7 +180,7 @@
         "Je veux la vanille",
         "Ouga Bouga"
       ],
-      "sprite": "https://i.imgur.com/zLEMgTB.png",
+      "sprite": "https://www.spriters-resource.com/resources/sheet_icons/63/66151.png",
       "background": "../img/Minimalistic Finn.jpeg"
     },{
       "id": 12,
@@ -195,7 +195,7 @@
         "Je vais caner gros",
         "Tu veux voir mon projet avec Sofiane"
       ],
-      "sprite": "https://i.imgur.com/zLEMgTB.png",
+      "sprite": "https://www.spriters-resource.com/resources/sheet_icons/65/67654.png",
       "background": "../img/Minimalistic Finn.jpeg"
     },{
       "id": 13,
@@ -210,7 +210,7 @@
         "Tu savais pas !",
         "Attend tu utilise Vscode ?"
       ],
-      "sprite": "https://i.imgur.com/zLEMgTB.png",
+      "sprite": "https://www.spriters-resource.com/resources/sheet_icons/49/52269.png",
       "background": "../img/Minimalistic Finn.jpeg"
     },{
       "id": 14,
@@ -240,7 +240,7 @@
         "Vous voulez pas allez fumer ?",
         "Y'a pas de quatrieme phrase je suis une femme"
       ],
-      "sprite": "https://i.imgur.com/zLEMgTB.png",
+      "sprite": "https://www.spriters-resource.com/resources/sheet_icons/65/67675.png",
       "background": "../img/Minimalistic Finn.jpeg"
     },{
       "id": 16,
@@ -255,7 +255,7 @@
         "Qui sort ce soir ?",
         "Pas demain j'aurais surement la geule de bois"
       ],
-      "sprite": "https://i.imgur.com/zLEMgTB.png",
+      "sprite": "https://www.spriters-resource.com/resources/sheet_icons/62/65118.png",
       "background": "../img/Minimalistic Finn.jpeg"
     },{
       "id": 17,
@@ -270,7 +270,7 @@
         "j'ai train une petite cassiopé",
         "J'ai fais une petit blanquette de veau"
       ],
-      "sprite": "https://i.imgur.com/zLEMgTB.png",
+      "sprite": "https://www.spriters-resource.com/resources/sheet_icons/64/66668.png",
       "background": "../img/Minimalistic Finn.jpeg"
     },
     {
@@ -286,7 +286,7 @@
         "T'est giga gay",
         "Maix c'est pas drole"
       ],
-      "sprite": "https://i.imgur.com/zLEMgTB.png",
+      "sprite": "https://www.spriters-resource.com/resources/sheet_icons/62/65116.png",
       "background": "../img/Minimalistic Finn.jpeg"
     },
     {
@@ -302,7 +302,7 @@
         "Kheir-eddine, Benjamin 20/20",
         "TP surprise"
       ],
-      "sprite": "https://i.imgur.com/zLEMgTB.png",
+      "sprite": "https://www.spriters-resource.com/resources/sheet_icons/64/67635.png",
       "background": "../img/Minimalistic Finn.jpeg"
     }
   ]
