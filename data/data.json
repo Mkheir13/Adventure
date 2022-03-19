@@ -165,7 +165,7 @@
         "Quoi?, De neuf ?",
         "Quoi?, Drilataire"
       ],
-      "sprite": "https://www.spriters-resource.com/resources/sheets/157/159767.png?updated=1629056122",
+      "sprite": "https://www.spriters-resource.com/resources/sheet_icons/65/67652.png",
       "background": "../img/Minimalistic Finn.jpeg"
     },{
       "id": 11,
@@ -210,7 +210,7 @@
         "Tu savais pas !",
         "Attend tu utilise Vscode ?"
       ],
-      "sprite": "https://www.spriters-resource.com/resources/sheet_icons/49/52269.png",
+      "sprite": "https://www.spriters-resource.com/resources/sheet_icons/61/63872.png",
       "background": "../img/Minimalistic Finn.jpeg"
     },{
       "id": 14,
@@ -270,7 +270,7 @@
         "j'ai train une petite cassiopé",
         "J'ai fais une petit blanquette de veau"
       ],
-      "sprite": "https://www.spriters-resource.com/resources/sheet_icons/64/66668.png",
+      "sprite": "https://www.spriters-resource.com/resources/sheet_icons/64/67599.png",
       "background": "../img/Minimalistic Finn.jpeg"
     },
     {
@@ -292,7 +292,7 @@
     {
       "id": 19,
       "slug": "Mr.Prof",
-      "displayName": "Monsieur",
+      "displayName": "Monsieur le Prof",
       "fullName": "Sébastien Nouet",
       "species": "Homme",
       "sex": "Homme",
